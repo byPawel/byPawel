@@ -2,7 +2,7 @@
 
 # Hey, I'm Pawel 👋
 
-### AI Product Engineer
+### AI Product Engineer | Full Stack Developer
 
 *Building AI-powered developer tools and writing about multi-model orchestration*
 
