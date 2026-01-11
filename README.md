@@ -23,8 +23,6 @@
 
 Open-source AI orchestration platform coordinating multiple AI models (GPT, Gemini, Perplexity, Grok, Qwen) through unified workflows.
 
-`60k+ lines of TypeScript`
-
 </td>
 </tr>
 </table>
