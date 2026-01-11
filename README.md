@@ -41,18 +41,6 @@ Open-source AI orchestration platform coordinating multiple AI models (GPT, Gemi
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byPawel&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byPawel&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ### ✍️ Latest Writing
 
 I write about AI architecture, multi-model orchestration, and building AI-powered applications.
