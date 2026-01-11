@@ -1,97 +1,62 @@
-<!-- Animated Typing SVG -->
-<p align="center">
-  <a href="https://github.com/byPawel">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+there%2C+I'm+Pawe%C5%82+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
+
+# Hey, I'm Pawel 👋
+
+### Senior Full Stack Developer & Frontend Lead
+
+*Building AI-powered developer tools and writing about multi-model orchestration*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawel-pawlowski-dev/)
+[![Blog](https://img.shields.io/badge/bypawel.com-000000?style=for-the-badge&logo=hashnode&logoColor=white)](https://bypawel.com)
+
+</div>
 
 ---
 
-## 🚀 About Me
+### 🚀 Projects
 
-- 🔭 I'm currently working on exciting projects
-- 🌱 I'm always learning new technologies
-- 👯 I'm looking to collaborate on open source projects
-- 💬 Ask me about web development, coding, and tech
-- ⚡ Fun fact: I love solving complex problems!
+<table>
+<tr>
+<td>
 
----
+**[TachiBot](https://tachibot.com)**
 
-## 🛠️ Tech Stack
+Open-source AI orchestration platform coordinating multiple AI models (GPT, Gemini, Perplexity, Grok, Qwen) through unified workflows.
 
-<!-- Skill Icons -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,html,css,tailwind,git,github,vscode,docker&perline=7" alt="Tech Stack" />
-  </a>
-</p>
+`60k+ lines of TypeScript`
 
-<!-- Shields.io Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
+</td>
+</tr>
+</table>
+
+*More coming soon...*
 
 ---
 
-## 📊 GitHub Stats
+### 🛠 Tech Stack
 
-<!-- GitHub Readme Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=byPawel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byPawel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
-</p>
-
-<!-- GitHub Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=byPawel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
 
-## 🏆 GitHub Trophies
+### 📊 GitHub Stats
 
-<!-- GitHub Profile Trophy -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=byPawel&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
+<div align="center">
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=byPawel&show_icons=true&theme=tokyonight&hide_border=true)
 
-## 📈 Activity Graph
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byPawel&layout=compact&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=byPawel&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
+</div>
 
 ---
 
-## 🤝 Connect with Me
+### ✍️ Latest Writing
 
-<p align="center">
-  <a href="https://github.com/byPawel">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <!-- Add your other social links here -->
-  <!--
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  -->
-</p>
+I write about AI architecture, multi-model orchestration, and building AI-powered applications.
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=byPawel&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <i>Thanks for visiting my profile! Feel free to check out my repositories and connect with me.</i>
-</p>
+➡️ **[Read on bypawel.com](https://bypawel.com)**
