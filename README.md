@@ -2,7 +2,7 @@
 
 # Hey, I'm Pawel 👋
 
-### Senior Full Stack Developer & Frontend Lead
+### AI Product Engineer & Senior Full Stack Developer & Frontend Lead
 
 *Building AI-powered developer tools and writing about multi-model orchestration*
 
