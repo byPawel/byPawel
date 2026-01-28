@@ -21,7 +21,7 @@
 
 **[TachiBot](https://tachibot.com)**
 
-Open-source AI orchestration platform coordinating multiple AI models (GPT, Gemini, Perplexity, Grok, Qwen) through unified workflows.
+Open-source AI orchestration platform coordinating multiple AI models (GPT, Gemini, Perplexity, Grok, Qwen, Kimi, Minimax) through unified workflows.
 
 </td>
 </tr>
