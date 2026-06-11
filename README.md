@@ -60,7 +60,7 @@ npm install -g tachibot-mcp
 ![MIT](https://img.shields.io/badge/MIT-green?style=flat-square)
 
 **Problem:** Agent workflows usually depend on hosted APIs and hidden state.
-**What I built:** A local-first ReAct agent that fuses dokoro memory + tachibot multi-model council over MCP — runs 100% local via Qwen/Ollama.
+**What I built:** A local-first ReAct agent that fuses dokoro memory + tachibot multi-model council over MCP. Pluggable brains: Qwen via Ollama, Nous Hermes via vLLM/llama.cpp, or any OpenAI-compatible endpoint — runs 100% local.
 
 ### 🌐 [TachiBot](https://tachibot.com) — the platform
 
@@ -72,8 +72,9 @@ Open-source AI orchestration platform coordinating GPT, Gemini, Perplexity, Grok
 
 ## 🛠️ Tech Stack
 
-**AI Engineering** — MCP servers & clients, multi-model orchestration, agent frameworks (LangGraph, Mastra, CrewAI), agent memory systems, LLM observability & evals (Langfuse, Evalite), local-first LLM workflows (Ollama/Qwen), OpenAI / Anthropic / Gemini / OpenRouter APIs
+**AI Engineering** — agentic AI (ReAct agents, tool use, multi-agent workflows), MCP servers & clients, multi-model orchestration, agent frameworks (LangGraph, Mastra, CrewAI), agent memory systems, LLM observability & evals (Langfuse, Evalite), local-first LLM workflows (Ollama/Qwen), OpenAI / Anthropic / Gemini / OpenRouter APIs
 
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-FF6F00?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
