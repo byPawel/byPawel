@@ -101,7 +101,7 @@ I write about AI architecture, multi-model orchestration, and building AI-powere
 
 <div align="center">
 
-![byPawel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=byPawel&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![byPawel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=byPawel&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_rank=true)
 &nbsp;&nbsp;
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byPawel&layout=compact&theme=github_dark&hide_border=true)
 
