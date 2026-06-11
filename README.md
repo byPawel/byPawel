@@ -72,20 +72,27 @@ Open-source AI orchestration platform coordinating GPT, Gemini, Perplexity, Grok
 
 ## 🛠️ Tech Stack
 
-**AI Engineering** — MCP servers & clients, multi-model orchestration, agent memory systems, local-first LLM workflows (Ollama/Qwen), OpenAI / Anthropic / Gemini / OpenRouter APIs
+**AI Engineering** — MCP servers & clients, multi-model orchestration, agent frameworks (LangGraph, Mastra, CrewAI), agent memory systems, LLM observability & evals (Langfuse, Evalite), local-first LLM workflows (Ollama/Qwen), OpenAI / Anthropic / Gemini / OpenRouter APIs
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-Protocol-blueviolet?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![Mastra](https://img.shields.io/badge/Mastra-000000?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-0A60B5?style=for-the-badge&logoColor=white)
+![Evalite](https://img.shields.io/badge/Evalite-evals-yellow?style=for-the-badge)
 
-**Full Stack** — TypeScript, React, Node.js, Python, Django, API design & developer tooling, open-source package maintenance
+**Full Stack** — TypeScript, React, Next.js, Node.js, Python, Django, API design & developer tooling, E2E testing with Playwright, open-source package maintenance
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAF8?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logoColor=white)
 
 ---
 
