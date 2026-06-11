@@ -33,7 +33,7 @@ I'm building the full agentic AI stack as open source — every layer an agent n
 tachi-agent  →  agent runtime    (ReAct loop, pluggable brains, tool use)
 dokoro       →  agent memory     (working / episodic / semantic / procedural)
 tachibot-mcp →  model council    (multi-model orchestration, jury & verification)
-TachiBot     →  platform         (unified workflows across providers)
+tachibot.com →  docs             (guides & reference for the whole stack)
 ```
 
 ### 🤖 [tachibot-mcp](https://github.com/byPawel/tachibot-mcp) — the council: multi-model orchestration over MCP
@@ -68,11 +68,11 @@ npm install -g tachibot-mcp
 **Problem:** Agent workflows usually depend on hosted APIs and hidden state.
 **What I built:** A local-first ReAct agent that fuses dokoro memory + tachibot multi-model council over MCP. Pluggable brains: Qwen via Ollama, Nous Hermes via vLLM/llama.cpp, or any OpenAI-compatible endpoint — runs 100% local.
 
-### 🌐 [TachiBot](https://tachibot.com) — the platform: agentic workflows across providers
+### 🌐 [tachibot.com](https://tachibot.com) — the docs: guides & reference for the stack
 
 ![Live](https://img.shields.io/badge/Live-tachibot.com-black?style=flat-square&logo=vercel)
 
-Open-source AI orchestration platform coordinating GPT, Gemini, Perplexity, Grok, Qwen, Kimi & MiniMax through unified workflows.
+Documentation hub for the Tachi Stack — setup guides, tool reference, and workflows for orchestrating GPT, Gemini, Perplexity, Grok, Qwen, Kimi & MiniMax.
 
 ---
 
