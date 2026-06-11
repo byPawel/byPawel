@@ -84,7 +84,7 @@ Open-source AI orchestration platform coordinating GPT, Gemini, Perplexity, Grok
 ![Langfuse](https://img.shields.io/badge/Langfuse-0A60B5?style=for-the-badge&logoColor=white)
 ![Evalite](https://img.shields.io/badge/Evalite-evals-yellow?style=for-the-badge)
 
-**Full Stack** — TypeScript, React, Next.js, Node.js, Python, Django, API design & developer tooling, E2E testing with Playwright, open-source package maintenance
+**Full Stack** — TypeScript, React, Next.js, Node.js, Python, Django, GraphQL & REST API design, state management (Redux, Zustand), data viz with D3.js, E2E testing with Playwright, open-source package maintenance
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAF8?style=for-the-badge&logo=react&logoColor=black)
@@ -92,6 +92,10 @@ Open-source AI orchestration platform coordinating GPT, Gemini, Perplexity, Grok
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433D38?style=for-the-badge&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logoColor=white)
 
 ---
