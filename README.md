@@ -54,8 +54,6 @@ npm install -g tachibot-mcp
 ### 🧠 [dokoro](https://github.com/byPawel/dokoro) — the memory: multi-layer memory for AI agents
 
 [![npm version](https://img.shields.io/npm/v/dokoro?style=flat-square&logo=npm&color=CB3837)](https://www.npmjs.com/package/dokoro)
-[![npm downloads](https://img.shields.io/npm/dm/dokoro?style=flat-square&logo=npm)](https://www.npmjs.com/package/dokoro)
-![stars](https://img.shields.io/github/stars/byPawel/dokoro?style=flat-square&logo=github)
 ![last commit](https://img.shields.io/github/last-commit/byPawel/dokoro?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
@@ -64,7 +62,6 @@ npm install -g tachibot-mcp
 
 ### ⚡ [tachi-agent](https://github.com/byPawel/tachi-agent) — the runtime: local-first agentic loop
 
-![stars](https://img.shields.io/github/stars/byPawel/tachi-agent?style=flat-square&logo=github)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![MIT](https://img.shields.io/badge/MIT-green?style=flat-square)
 
