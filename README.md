@@ -16,7 +16,7 @@
 
 ## 🧠 About Me
 
-I build AI products that go beyond chat UIs: published npm packages, MCP servers, orchestration systems, and memory layers that developers actually run. I design systems where multiple AI models collaborate — checking each other's work, debating solutions, and producing better outputs together.
+I build **agentic AI systems** that go beyond chat UIs: agent runtimes, memory layers, multi-model orchestration, and MCP servers — published as npm packages developers actually run. I design systems where multiple AI models collaborate as agents: reasoning in loops, using tools, checking each other's work, and producing better outputs together.
 
 - 🔭 Currently building **[TachiBot](https://tachibot.com)** — open-source multi-model AI orchestration, live on npm
 - 🧩 Exploring agent memory architectures with **[dokoro](https://github.com/byPawel/dokoro)**
@@ -25,9 +25,18 @@ I build AI products that go beyond chat UIs: published npm packages, MCP servers
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 The Tachi Stack — agentic AI, end to end
 
-### 🤖 [tachibot-mcp](https://github.com/byPawel/tachibot-mcp) — multi-model AI orchestration over MCP
+I'm building the full agentic AI stack as open source — every layer an agent needs, shipped as composable MCP pieces:
+
+```
+tachi-agent  →  agent runtime    (ReAct loop, pluggable brains, tool use)
+dokoro       →  agent memory     (working / episodic / semantic / procedural)
+tachibot-mcp →  model council    (multi-model orchestration, jury & verification)
+TachiBot     →  platform         (unified workflows across providers)
+```
+
+### 🤖 [tachibot-mcp](https://github.com/byPawel/tachibot-mcp) — the council: multi-model orchestration over MCP
 
 [![npm version](https://img.shields.io/npm/v/tachibot-mcp?style=flat-square&logo=npm&color=CB3837)](https://www.npmjs.com/package/tachibot-mcp)
 [![npm downloads](https://img.shields.io/npm/dm/tachibot-mcp?style=flat-square&logo=npm)](https://www.npmjs.com/package/tachibot-mcp)
@@ -42,7 +51,7 @@ I build AI products that go beyond chat UIs: published npm packages, MCP servers
 npm install -g tachibot-mcp
 ```
 
-### 🧠 [dokoro](https://github.com/byPawel/dokoro) — multi-layer memory for AI agents
+### 🧠 [dokoro](https://github.com/byPawel/dokoro) — the memory: multi-layer memory for AI agents
 
 [![npm version](https://img.shields.io/npm/v/dokoro?style=flat-square&logo=npm&color=CB3837)](https://www.npmjs.com/package/dokoro)
 [![npm downloads](https://img.shields.io/npm/dm/dokoro?style=flat-square&logo=npm)](https://www.npmjs.com/package/dokoro)
@@ -53,7 +62,7 @@ npm install -g tachibot-mcp
 **Problem:** Most agent "memory" is a toy key-value store that forgets everything between sessions.
 **What I built:** An MCP memory server with working, episodic, semantic, procedural & affective memory layers — inspectable, persistent memory for Claude Code and any MCP client.
 
-### ⚡ [tachi-agent](https://github.com/byPawel/tachi-agent) — local-first orchestration agent
+### ⚡ [tachi-agent](https://github.com/byPawel/tachi-agent) — the runtime: local-first agentic loop
 
 ![stars](https://img.shields.io/github/stars/byPawel/tachi-agent?style=flat-square&logo=github)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -62,7 +71,7 @@ npm install -g tachibot-mcp
 **Problem:** Agent workflows usually depend on hosted APIs and hidden state.
 **What I built:** A local-first ReAct agent that fuses dokoro memory + tachibot multi-model council over MCP. Pluggable brains: Qwen via Ollama, Nous Hermes via vLLM/llama.cpp, or any OpenAI-compatible endpoint — runs 100% local.
 
-### 🌐 [TachiBot](https://tachibot.com) — the platform
+### 🌐 [TachiBot](https://tachibot.com) — the platform: agentic workflows across providers
 
 ![Live](https://img.shields.io/badge/Live-tachibot.com-black?style=flat-square&logo=vercel)
 
