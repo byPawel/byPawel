@@ -97,18 +97,6 @@ I write about AI architecture, multi-model orchestration, and building AI-powere
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![byPawel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=byPawel&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_rank=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byPawel&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
 ## 🤝 Let's Talk
 
 Open to **AI Product Engineer** and **Full-Stack Engineer** roles — especially teams building AI tools, developer platforms, agents, or production LLM workflows.
